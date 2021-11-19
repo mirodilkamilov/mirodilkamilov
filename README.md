@@ -62,14 +62,14 @@
 
 <p align="center">
    <a href="https://linkedin.com/in/mirodilkamilov" target="blank">
-      <img align="center" src="images/linkedin.png" alt="linkedin" height="40" width="40" />
+      <img align="center" src="images/linkedin.svg" alt="linkedin" height="40" width="40" />
    </a>
    &emsp;
    <a href="mailto:mirodilkamilov@gmail.com" target="blank">
-      <img align="center" src="images/email.png" alt="email" height="47" width="44" />
+      <img align="center" src="images/email.png" alt="email" height="40" width="40" />
    </a>
    &emsp;
    <a href="https://www.facebook.com/mirodilkamilov" target="blank">
-      <img align="center" src="images/facebook.png" alt="facebook" height="40" width="40" />
+      <img align="center" src="images/facebook.svg" alt="facebook" height="40" width="40" />
    </a>
 </p>
