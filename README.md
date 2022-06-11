@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="images/hi.gif" width="29px">, I'm Mirodil Kamilov</h1>
+<h1 align="center">Hi, I'm Mirodil Kamilov</h1>
 <h3>I’m Junior Backend Developer from Tashkent, Uzbekistan</h3>
 
 <div align="right">
