@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mirodil Kamilov</h1>
-<h3>I’m Junior Backend Developer from Tashkent, Uzbekistan</h3>
+<h3>I’m Backend Developer from Tashkent, Uzbekistan</h3>
 
 <div align="right">
    <a href="https://app.daily.dev/Optimus">
