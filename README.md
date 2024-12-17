@@ -1,51 +1,30 @@
-<h1 align="center">Hi, I'm Mirodil Kamilov</h1>
-<h3>I’m Backend Developer from Tashkent, Uzbekistan</h3>
+<h1 align="center">👋 Hi, I'm Mirodil Kamilov</h1>
+<h3 align="center">Software Engineer | Backend Developer | Marathon Runner</h3>
 
-<div align="right">
-   <a href="https://app.daily.dev/Optimus">
-      <img src="https://api.daily.dev/devcards/5ca1a1b3d51b4b8cb6e56192c49f103b.png?r=wod" width="256" alt="My Dev Card" align="right"/>
-   </a>
-</div>
+<h4 align="left">BIO:</h3>
 
-**BIO**
+- ⚙️ I use mostly: `.java`, `.php`, `.py`, `.sql`.
+- 👨‍💻 I'm currently working on my pet-project.
+- 🎓 Pursuing a Master's in **Computer Science** at **University of Passau**.
+- ⚡ Fun fact: [Completed Würzburg Marathon](https://wuerzburg.r.mikatiming.de/2024/?content=detail&event=M&idp=2EF3C4FQ4B983&lang=EN_CAP&pid=search&search%5Bstart_no%5D=450) (42km) with a time of 4h 26min.
 
-- ⚙️ I use mostly: `.php`, `.js`, `.html`, `.css`, `.blade.php`, `.sql`
-- 👨‍💻 I’m currently busy with applying to universities for my Master's degree
-- 🌱 I’m currently learning Machine Learning and Big Data
-- ⚡ Fun fact: I love 🏃‍♂️ running for long distances from early morning 🌅
+<img align="center"
+   src="https://github-readme-stats.vercel.app/api?username=mirodilkamilov&show_icons=true&count_private=true&theme=react&border_radius=16&custom_title=My%20GitHub%20Stats&locale=en"
+   alt="My GitHub Stats" />
 
-<p>&nbsp;
-   <img align="center"
-      src="https://github-readme-stats.vercel.app/api?username=mirodilkamilov&show_icons=true&count_private=true&theme=react&border_radius=16&custom_title=My GitHub Stats&locale=en"
-      alt="mirodilkamilov" />
-</p>
+<img align="center" 
+   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirodilkamilov&layout=compact&theme=react&hide=html,css,scss&size_weight=0&count_weight=1" alt="My most used languages">
 
-<h3 align="left">Languages and Tools:</h3>
+<h4 align="left">Tech Stack:</h3>
 
 <p>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40" />
-   <img src="images/laravel.svg" alt="laravel" width="40" height="40" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" alt="Spring Boot" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="php" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="php" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40" />
    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
-</p>
-
-<p align="center">
-   <a href="https://linkedin.com/in/mirodilkamilov" target="blank">
-      <img align="center" src="images/linkedin.svg" alt="linkedin" height="40" width="40" />
-   </a>
-   &emsp;
-   <a href="mailto:mirodilkamilov@gmail.com" target="blank">
-      <img align="center" src="images/email.png" alt="email" height="40" width="40" />
-   </a>
-   &emsp;
-   <a href="https://www.facebook.com/mirodilkamilov" target="blank">
-      <img align="center" src="images/facebook.svg" alt="facebook" height="40" width="40" />
-   </a>
 </p>
