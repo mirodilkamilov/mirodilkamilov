@@ -8,12 +8,15 @@
 - 🎓 Pursuing a Master's in **Computer Science** at **University of Passau**.
 - ⚡ Fun fact: [Completed Würzburg Marathon](https://wuerzburg.r.mikatiming.de/2024/?content=detail&event=M&idp=2EF3C4FQ4B983&lang=EN_CAP&pid=search&search%5Bstart_no%5D=450) (42km) with a time of 4h 26min.
 
-<img align="center"
-   src="https://github-readme-stats.vercel.app/api?username=mirodilkamilov&show_icons=true&count_private=true&theme=react&border_radius=16&custom_title=My%20GitHub%20Stats&locale=en"
-   alt="My GitHub Stats" />
-
-<img align="center" 
-   src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirodilkamilov&layout=compact&theme=react&hide=html,css,scss&size_weight=0&count_weight=1" alt="My most used languages">
+<div align="center">
+   <a href="https://github.com/mirodilkamilov">
+      <img src="https://github-readme-stats.vercel.app/api?username=mirodilkamilov&show_icons=true&count_private=true&border_radius=16&custom_title=My%20GitHub%20Stats&locale=en"
+         alt="My GitHub Stats" />
+   </a>
+   <a href="https://github.com/mirodilkamilov">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mirodilkamilov&layout=compact&hide=html,css,scss&size_weight=0&count_weight=1" alt="My most used languages">
+   </a>
+</div>
 
 <h4 align="left">Tech Stack:</h3>
 
