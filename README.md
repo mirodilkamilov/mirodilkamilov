@@ -11,12 +11,9 @@ Hello! I'm Mirodil, a passionate software engineer with expertise in backend dev
 
 🏃 **Fun Fact:** Outside of coding, I'm a dedicated marathon runner! I completed the [Würzburg Marathon 2024](https://wuerzburg.r.mikatiming.de/2024/?content=detail&event=M&idp=2EF3C4FQ4B983&lang=EN_CAP&pid=search&search%5Bstart_no%5D=450) (42km) in **4 hours and 26 minutes**. 
 
----
-
 <h4 align="left">🛠 Tech Stack</h3>
 
 Here are some of the tools and technologies I use to bring ideas to life:
-
 
 <p>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
