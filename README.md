@@ -3,7 +3,7 @@
 
 <h4 align="left">📜 About Me</h3>
 
-Hello! I'm Mirodil, a passionate software engineer with expertise in backend development and RESTful API design. I earned my Bachelor's in Computer Science from **Inha University in Tashkent** 🇺🇿 and am currently pursuing my Master's in Computer Science at the **University of Passau** 🇩🇪.
+Hello! I'm Mirodil, a passionate software engineer with expertise in backend development and RESTful API design. I earned my Bachelor's in Computer Science from **Inha University in Tashkent** 🇺🇿 and am currently pursuing my Master's in AI Engineering at the **University of Passau** 🇩🇪.
 
 🎯 **What I'm working on:**
 - Developing the [*Testing System REST API*](https://github.com/mirodilkamilov/testing-system) using **Spring Boot** and **PostgreSQL** to streamline testing workflows.
